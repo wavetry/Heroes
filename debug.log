@@ -1,0 +1,59 @@
+Cocos2d: 
+<dict>
+	cocos2d.x.version: quick-cocos2d-x 2.2.6
+	cocos2d.x.compiled_with_profiler: false
+	cocos2d.x.compiled_with_gl_state_cache: true
+	gl.vendor: Intel Inc.
+	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+	gl.version: 2.1 INTEL-10.6.33
+	gl.max_texture_size: 16384
+	gl.max_texture_units: 16
+	gl.supports_PVRTC: false
+	gl.supports_NPOT: true
+	gl.supports_BGRA8888: false
+	gl.supports_discard_framebuffer: false
+	gl.supports_vertex_array_object: true
+</dict>
+Cocos2d: lua_loadChunksFromZIP() - load zip file: /Users/youai/client/trunk/quick-cocos2d-x-2.2.6/lib/framework_precompiled/framework_precompiled.zip
+Cocos2d: lua_loadChunksFromZIP() - loaded chunks count: 125
+Cocos2d: DownloadMgr
+Cocos2d: dlScriptDir : /Users/youai/quick-cocos2d/Heroes/galaxyDL/res/scripts
+Cocos2d: ------------------------------------------------
+Cocos2d: LOAD LUA FILE: /Users/youai/quick-cocos2d/Heroes/scripts/main.lua
+Cocos2d: ------------------------------------------------
+Cocos2d: [0.1000] 
+Cocos2d: [0.1001] # DEBUG                        = 0
+Cocos2d: [0.1001] #
+Cocos2d: [0.1003] # device.platform              = mac
+Cocos2d: [0.1003] # device.model                 = unknown
+Cocos2d: [0.1004] # device.language              = cn
+Cocos2d: [0.1004] # device.writablePath          = /Users/youai/quick-cocos2d/Heroes/
+Cocos2d: [0.1004] # device.cachePath             = /Users/youai/quick-cocos2d/Heroes/
+Cocos2d: [0.1004] # device.directorySeparator    = /
+Cocos2d: [0.1004] # device.pathSeparator         = :
+Cocos2d: [0.1005] #
+Cocos2d: [0.1063] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+Cocos2d: [0.1063] # CONFIG_SCREEN_WIDTH          = 640.00
+Cocos2d: [0.1064] # CONFIG_SCREEN_HEIGHT         = 960.00
+Cocos2d: [0.1064] # display.widthInPixels        = 640.00
+Cocos2d: [0.1064] # display.heightInPixels       = 960.00
+Cocos2d: [0.1064] # display.contentScaleFactor   = 1.00
+Cocos2d: [0.1065] # display.width                = 640.00
+Cocos2d: [0.1065] # display.height               = 960.00
+Cocos2d: [0.1065] # display.cx                   = 320.00
+Cocos2d: [0.1065] # display.cy                   = 480.00
+Cocos2d: [0.1065] # display.left                 = 0.00
+Cocos2d: [0.1066] # display.right                = 640.00
+Cocos2d: [0.1066] # display.top                  = 960.00
+Cocos2d: [0.1066] # display.bottom               = 0.00
+Cocos2d: [0.1066] # display.c_left               = -320.00
+Cocos2d: [0.1066] # display.c_right              = 320.00
+Cocos2d: [0.1066] # display.c_top                = 480.00
+Cocos2d: [0.1066] # display.c_bottom             = -480.00
+Cocos2d: [0.1066] #
+Cocos2d: BaseFactory
+Cocos2d: printTickCount tickcount:1 thisptr:-873775552 msCCDBManager:0, sizeof(176) 128, 24
+Cocos2d: CCHTTPRequest[0x0001] - create request with url: http://www.google-analytics.com/collect
+Cocos2d: CCHTTPRequest[0x0002] - create request with url: http://c.kp747.com/k.js?id=c1e060d0a0e0e207
+Cocos2d: CCHTTPRequest[0x0002] - request removed
+Cocos2d: CCHTTPRequest[0x0002] - request removed
